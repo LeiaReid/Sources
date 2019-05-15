@@ -1,3 +1,17 @@
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
+
 ## Introduction
 
 To help introduce the topic I have used some general statistics. They are all available here:
@@ -85,6 +99,20 @@ Welfare relating to children, was available on the ONS [social protection profil
 I also utilised The Treasury's 2019 budget [report](https://www.researchbriefings.files.parliament.uk/documents/CBP-8517/CBP-8517.pdf)
 
 I plotted these details every second year to provide a visualisation that shows the cuts that affect children's development. 
+
+## Navigation
+
+[Introduction](https://leiareid.github.io/austerity/)
+
+[Devolved funding & education](https://leiareid.github.io/funding/)
+
+[Teaching](https://leiareid.github.io/teaching/)
+
+[Mental Health and mobility, in education](https://leiareid.github.io/example/)
+
+[Austerity's affect on child welfare spending, and child mobility](https://leiareid.github.io/Welfare/)
+
+[Child Mobility Comparison](https://leiareid.github.io/comparison/)
 
 
 
